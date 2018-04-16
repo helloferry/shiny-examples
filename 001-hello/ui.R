@@ -4,7 +4,7 @@ library(shiny)
 fluidPage(
 
   # Application title
-  titlePanel("Hello Shiny!"),
+  titlePanel("Test 04162018"),
 
   # Sidebar with a slider input for the number of bins
   sidebarLayout(
